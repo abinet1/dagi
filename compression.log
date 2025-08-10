@@ -1,0 +1,82 @@
+🎬 Starting video compression for portfolio...
+This may take several minutes depending on video sizes...
+Found 25 video files to compress
+Backing up: 1 Lejenet Doc Trailer.mp4
+Compressing: 1 Lejenet Doc Trailer.mp4
+✅ 1 Lejenet Doc Trailer.mp4: 12.2MB → 11.5MB (5.9% reduction)
+Backing up: Amcham June Breakfast Forum .mp4
+Compressing: Amcham June Breakfast Forum .mp4
+✅ Amcham June Breakfast Forum .mp4: 24.7MB → 23.8MB (3.9% reduction)
+Backing up: march 8 event.mp4
+Compressing: march 8 event.mp4
+✅ march 8 event.mp4: 2.6MB → 2.4MB (7.3% reduction)
+Backing up: Bermel X Letena X Ruggas story recap 02.mp4
+Compressing: Bermel X Letena X Ruggas story recap 02.mp4
+✅ Bermel X Letena X Ruggas story recap 02.mp4: 9.6MB → 9.0MB (5.3% reduction)
+Backing up:  Bridal Shower.mp4
+Compressing:  Bridal Shower.mp4
+✅  Bridal Shower.mp4: 16.6MB → 15.5MB (6.2% reduction)
+Backing up: Brook + Tihut_Wedding Teaser.mp4
+Compressing: Brook + Tihut_Wedding Teaser.mp4
+✅ Brook + Tihut_Wedding Teaser.mp4: 38.5MB → 36.3MB (5.8% reduction)
+Backing up: short vid 01.mp4
+Compressing: short vid 01.mp4
+✅ short vid 01.mp4: 14.0MB → 13.4MB (4.8% reduction)
+Backing up: quiz 02.mp4
+Compressing: quiz 02.mp4
+✅ quiz 02.mp4: 2.1MB → 2.0MB (0.6% reduction)
+Backing up: Dr. Letena April 21 Dr. samrawit_1.mp4
+Compressing: Dr. Letena April 21 Dr. samrawit_1.mp4
+✅ Dr. Letena April 21 Dr. samrawit_1.mp4: 6.6MB → 6.2MB (6.3% reduction)
+Backing up: Dr Letena March 26  Dr. rama.mp4
+Compressing: Dr Letena March 26  Dr. rama.mp4
+✅ Dr Letena March 26  Dr. rama.mp4: 5.9MB → 5.6MB (3.8% reduction)
+Backing up: cris intrior.mp4
+Compressing: cris intrior.mp4
+✅ cris intrior.mp4: 1.7MB → 1.5MB (7.2% reduction)
+Backing up: broll apr_21mp4.mp4
+Compressing: broll apr_21mp4.mp4
+✅ broll apr_21mp4.mp4: 1.4MB → 1.3MB (4.3% reduction)
+Backing up: BTS cris.mp4
+Compressing: BTS cris.mp4
+✅ BTS cris.mp4: 1.0MB → 1.0MB (4.0% reduction)
+Backing up: 4.All in One 03.mp4
+Compressing: 4.All in One 03.mp4
+✅ 4.All in One 03.mp4: 10.4MB → 10.1MB (3.3% reduction)
+Backing up:  Aesthetic 03.mp4
+Compressing:  Aesthetic 03.mp4
+✅  Aesthetic 03.mp4: 8.3MB → 7.9MB (4.4% reduction)
+Backing up: 6.Meeting room 03.mp4
+Compressing: 6.Meeting room 03.mp4
+✅ 6.Meeting room 03.mp4: 9.7MB → 9.4MB (3.2% reduction)
+Backing up: 3. Rooms 03.mp4
+Compressing: 3. Rooms 03.mp4
+✅ 3. Rooms 03.mp4: 14.3MB → 13.9MB (2.5% reduction)
+Backing up: jun_Reality Real Estate Construction.mp4
+Compressing: jun_Reality Real Estate Construction.mp4
+✅ jun_Reality Real Estate Construction.mp4: 24.3MB → 22.0MB (9.4% reduction)
+Backing up: IDiamend histry of tennis braclate_02.mp4
+Compressing: IDiamend histry of tennis braclate_02.mp4
+✅ IDiamend histry of tennis braclate_02.mp4: 43.4MB → 5.1MB (88.3% reduction)
+Backing up: jul 14 oval ring.mp4
+Compressing: jul 14 oval ring.mp4
+✅ jul 14 oval ring.mp4: 110.4MB → 11.4MB (89.6% reduction)
+Backing up: jul 10 pear trio.mp4
+Compressing: jul 10 pear trio.mp4
+✅ jul 10 pear trio.mp4: 117.5MB → 13.4MB (88.6% reduction)
+Backing up: jun_04 earring.mp4
+Compressing: jun_04 earring.mp4
+✅ jun_04 earring.mp4: 48.3MB → 4.5MB (90.6% reduction)
+Error processing /home/phelix/Documents/dagi portfolio/assets/videos/commercial/jullerys/IDiamend histry of tennis braclate_02.compressed.mp4: [Errno 2] No such file or directory: '/home/phelix/Documents/dagi portfolio/assets/videos/commercial/jullerys/IDiamend histry of tennis braclate_02.compressed.mp4'
+Backing up: ESX RECAP .mov
+Compressing: ESX RECAP .mov
+✅ ESX RECAP .mov: 115.7MB → 18.4MB (84.1% reduction)
+Backing up: xsite.MP4
+Compressing: xsite.MP4
+✅ xsite.MP4: 69.6MB → 8.5MB (87.8% reduction)
+
+🎬 COMPRESSION COMPLETE!
+📊 Processed: 24 videos
+📉 Total size: 708.7MB → 254.1MB
+💾 Space saved: 454.5MB (64.1% reduction)
+💿 Originals backed up to: /home/phelix/Documents/dagi portfolio/assets/videos_original
